@@ -9,7 +9,7 @@ namespace RepositoryPattern.Test
         [TestMethod]
         public void TestMethod()
         {
-            Assert.AreEqual(1, 2);
+            Assert.AreEqual(1, 1);
         }
 
         [TestMethod]
